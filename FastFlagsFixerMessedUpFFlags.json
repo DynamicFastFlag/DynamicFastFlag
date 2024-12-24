@@ -4,5 +4,16 @@
     "FFlagFasterPreciseTime3": false,
     "DFFlagMergeFakeInputEvents3": "false",
     "DFFlagSimOptimizeGeometryChangedAssemblies2": "false",
-    "FFlagLuaAppOptimizeReactPCalls": "false"
+    "FFlagLuaAppOptimizeReactPCalls": "false",
+    "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "false",
+    "FFlagRenderUnifiedLighting11": "True",
+    "DFFlagGraphicsOptimizationModeMVPExposureEnrollment4": "False",
+    "FStringDebugLuaLogLevel": "",
+    "FStringDebugLuaLogPattern": "",
+    "FFlagLuaAppEnableFoundationColors7": "True",
+    "FStringWhitelistVerifiedUserId": "946070340",
+    "FFlagEnableAccessibilitySettingsAPIV2": "false",
+    "FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "false",
+    "FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "false",
+    "FFlagEnableAccessibilitySettingsInExperienceMenu2": "false"
 }
