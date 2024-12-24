@@ -11,7 +11,7 @@
     "FStringDebugLuaLogLevel": "",
     "FStringDebugLuaLogPattern": "",
     "FFlagLuaAppEnableFoundationColors7": "True",
-    "FStringWhitelistVerifiedUserId": "946070340",
+    "FStringWhitelistVerifiedUserId": "",
     "FFlagEnableAccessibilitySettingsAPIV2": "false",
     "FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "false",
     "FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "false",
