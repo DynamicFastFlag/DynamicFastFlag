@@ -1,0 +1,8 @@
+{
+    "FFlagSimEnableDCD16": "false",
+    "FFlagRenderDynamicResolutionScale7": "false",
+    "FFlagFasterPreciseTime3": false,
+    "DFFlagMergeFakeInputEvents3": "false",
+    "DFFlagSimOptimizeGeometryChangedAssemblies2": "false",
+    "FFlagLuaAppOptimizeReactPCalls": "false"
+}
