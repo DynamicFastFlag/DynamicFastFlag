@@ -18,5 +18,6 @@
     "FFlagEnableAccessibilitySettingsInExperienceMenu2": "false",
     "FFlagRenderCBRefactor2": "false",
     "FIntEnableVisBugChecksHundredthPercent27": "0",
-    "DFIntPhysicsAnalyticsHighFrequencyIntervalSec ": "60"
+    "DFIntPhysicsAnalyticsHighFrequencyIntervalSec ": "60",
+     "FFlagDebugCodegenOptSize": "false"
 }
