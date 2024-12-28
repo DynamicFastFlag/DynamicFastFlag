@@ -19,5 +19,6 @@
     "FFlagRenderCBRefactor2": "false",
     "FIntEnableVisBugChecksHundredthPercent27": "0",
     "DFIntPhysicsAnalyticsHighFrequencyIntervalSec ": "60",
-     "FFlagDebugCodegenOptSize": "false"
+    "FFlagDebugCodegenOptSize": "false",
+    "DFIntMaxAverageFrameDelayExceedFactor": "3"
 }
