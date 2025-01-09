@@ -9,7 +9,7 @@
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment4": "False",
     "FStringDebugLuaLogLevel": "",
     "FStringDebugLuaLogPattern": "",
-    "FFlagLuaAppEnableFoundationColors7": "True",
+    "FFlagLuaAppEnableFoundationColors7": "false",
     "FStringWhitelistVerifiedUserId": "",
     "FFlagRenderCBRefactor2": "false",
     "FIntEnableVisBugChecksHundredthPercent27": "0",
