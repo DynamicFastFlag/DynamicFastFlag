@@ -1,10 +1,9 @@
 {
     "FFlagSimEnableDCD16": "false",
-    "FFlagRenderDynamicResolutionScale7": "false",
-    "FFlagFasterPreciseTime3": false,
+    "FFlagRenderDynamicResolutionScale8": "false",
+    "FFlagFasterPreciseTime4": false,
     "DFFlagMergeFakeInputEvents3": "false",
     "DFFlagSimOptimizeGeometryChangedAssemblies2": "false",
-    "FFlagLuaAppOptimizeReactPCalls": "false",
     "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "false",
     "FFlagRenderUnifiedLighting12": "false",
     "DFFlagGraphicsOptimizationModeMVPExposureEnrollment4": "False",
