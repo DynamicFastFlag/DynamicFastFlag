@@ -1,7 +1,7 @@
 {
     "FFlagSimEnableDCD16": "false",
     "FFlagRenderDynamicResolutionScale9": "false",
-    "FFlagFasterPreciseTime4": false,
+    "FFlagFasterPreciseTime4": "false",
     "DFFlagMergeFakeInputEvents3": "false",
     "DFFlagSimOptimizeGeometryChangedAssemblies2": "false",
     "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "false",
