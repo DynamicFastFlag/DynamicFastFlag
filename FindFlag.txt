@@ -1,0 +1,17 @@
+[C++] FFlagSimEnableDCD16
+[C++] FFlagRenderDynamicResolutionScale10
+[C++] FFlagFasterPreciseTime4
+[C++] DFFlagMergeFakeInputEvents3
+[C++] DFFlagSimOptimizeGeometryChangedAssemblies2
+[C++] FFlagRenderUnifiedLighting12
+[C++] FStringDebugLuaLogLevel
+[C++] FStringDebugLuaLogPattern
+[C++] DFIntMaxAverageFrameDelayExceedFactor
+[C++] FFlagDebugCodegenOptSize
+[C++] DFIntPhysicsAnalyticsHighFrequencyIntervalSec
+[C++] FFlagRenderCBRefactor2
+[C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
+[C++] FFlagLuaAppEnableFoundationColors7
+[C++] FStringWhitelistVerifiedUserId
+[C++] FIntEnableVisBugChecksHundredthPercent27
+[Lua] FFlagAXAccessoryAdjustmentIXPEnabledForAll
