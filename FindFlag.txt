@@ -1,5 +1,5 @@
 [C++] FFlagSimEnableDCD16
-[C++] FFlagRenderDynamicResolutionScale10
+[C++] FFlagRenderDynamicResolutionScale11
 [C++] FFlagFasterPreciseTime4
 [C++] DFFlagMergeFakeInputEvents3
 [C++] DFFlagSimOptimizeGeometryChangedAssemblies2
