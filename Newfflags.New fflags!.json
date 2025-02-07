@@ -1,3 +1,5 @@
 {
-    "FFlagRenderDynamicResolutionScale11": "false"
+    "FFlagRenderDynamicResolutionScale11": "false",
+    "FFlagNextGenReplicatorEnabledWrite2": "false",
+    "FFlagNextGenReplicatorEnabledRead2": "false"
 }
