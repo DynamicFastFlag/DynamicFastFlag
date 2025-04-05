@@ -45,4 +45,4 @@ FFlagLargeReplicatorEnabled
 FFlagKillOldExplorer
 FFlagKillOldProperties
 FFlagLightingCompatiblityLightsBrightnessGreaterThanOneCountTelemetry
-    "DFFlagFrameTimeJitterMedians2
+DFFlagFrameTimeJitterMedians2
