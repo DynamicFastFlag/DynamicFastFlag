@@ -51,3 +51,4 @@ FFlagEnableInGameMenuDurationLogger
 FFlagSimDcdRefactorDelta
 DFFlagMouseMoveOncePerFrame
 DFFlagFrameTimeStdDev
+FFlagUseRelativeToRootCFrameForAccessories
