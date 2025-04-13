@@ -53,3 +53,4 @@ DFFlagMouseMoveOncePerFrame
 DFFlagFrameTimeStdDev
 FFlagEnableUpdateduserInputCFrameUpdate
 FFlagUseRelativeToRootCFrameForAccessories
+FFlagUseUpdatedModelToGetHumanoid
