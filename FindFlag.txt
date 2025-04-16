@@ -14,3 +14,12 @@
 [C++] FStringWhitelistVerifiedUserId
 [Lua] FFlagAXAccessoryAdjustmentIXPEnabledForAll
 [C++] FFlagRemapR6Animation4
+[C++] FFlagNextGenReplicatorEnabledRead2
+[C++] FFlagNextGenReplicatorEnabledWrite2
+[C++] FFlagLargeReplicatorEnabled3
+[C++] FFlagLargeReplicatorRead2
+[C++] FFlagLargeReplicatorWrite2
+[C++] FFlagOptimizeCFrameUpdates2
+[C++] FFlagOptimizeCFrameUpdatesIC2
+[C++] FFlagSimDcdRefactorDelta2
+[C++] FFlagSimDcdEnableDelta2
