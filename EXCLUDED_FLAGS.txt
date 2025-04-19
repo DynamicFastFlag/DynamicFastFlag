@@ -54,4 +54,5 @@ DFFlagFrameTimeStdDev
 FFlagEnableUpdateduserInputCFrameUpdate
 FFlagUseRelativeToRootCFrameForAccessories
 FFlagUseUpdatedModelToGetHumanoid
+FFlagAnimationCurveDenseCacheEnabled
 FFlagTextureUseACR
