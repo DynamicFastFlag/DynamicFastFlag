@@ -24,3 +24,5 @@
 [C++] FFlagSimDcdRefactorDelta2
 [C++] FFlagSimDcdEnableDelta2
 [C++]  FFlagTextureUseACR2
+[C++]  FFlagAnimationCurveDenseCacheEnabled2
+
