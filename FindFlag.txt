@@ -23,6 +23,6 @@
 [C++] FFlagOptimizeCFrameUpdatesIC2
 [C++] FFlagSimDcdRefactorDelta2
 [C++] FFlagSimDcdEnableDelta2
-[C++]  FFlagTextureUseACR2
-[C++]  FFlagAnimationCurveDenseCacheEnabled3
+[C++] FFlagTextureUseACR2
+[C++] FFlagAnimationCurveDenseCacheEnabled3
 
