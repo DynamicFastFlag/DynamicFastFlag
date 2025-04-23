@@ -25,4 +25,4 @@
 [C++] FFlagSimDcdEnableDelta2
 [C++] FFlagTextureUseACR2
 [C++] FFlagAnimationCurveDenseCacheEnabled3
-
+[C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
