@@ -27,5 +27,6 @@
 [C++] FFlagAnimationCurveDenseCacheEnabled3
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
 [C++] FFlagRuntimeEnabled8
+[C++] FFlagTaskSchedulerLimitTargetFpsTo2402
 
 [Bot] Test
