@@ -26,4 +26,4 @@
 [C++] FFlagTextureUseACR2
 [C++] FFlagAnimationCurveDenseCacheEnabled3
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
-[C++] Test[NOT ROBLOX FFLAG ITS JUST FOR BOT TEST]
+[BotDevelopers] Test[NOT ROBLOX FFLAG ITS JUST FOR BOT TEST]
