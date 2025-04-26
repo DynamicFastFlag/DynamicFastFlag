@@ -26,5 +26,6 @@
 [C++] FFlagTextureUseACR2
 [C++] FFlagAnimationCurveDenseCacheEnabled3
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
+[C++] FFlagRuntimeEnabled8
 
 [Bot] Test
