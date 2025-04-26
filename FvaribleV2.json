@@ -7415,7 +7415,7 @@
     "FFlagRtlTextSupportDefaultIsEnabled": true,
     "FFlagRtMessaging": true,
     "FFlagRunCommandsInCodeAssist2": false,
-    "FFlagRuntimeEnabled8": false,
+    "FFlagRuntimeEnabled8": true,
     "FFlagRuntimeProfiled": false,
     "FFlagRuppTokenFallback": false,
     "FFlagRvCaptureFixFrontFacingCameraDefault": true,
