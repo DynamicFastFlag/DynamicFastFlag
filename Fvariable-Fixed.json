@@ -24,5 +24,6 @@
     "FFlagSimDcdRefactorDelta2": "false",
     "FFlagSimDcdEnableDelta2": "false",
     "FFlagNextGenReplicatorEnabledWrite2": "false",
-    "FFlagAnimationCurveDenseCacheEnabled3": "false"
+    "FFlagAnimationCurveDenseCacheEnabled3": "false",
+    "FStringVulkanBuggyRenderpassList2": ""
 }
