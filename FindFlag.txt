@@ -28,5 +28,8 @@
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
 [C++] FFlagRuntimeEnabled8
 [C++] FFlagTaskSchedulerLimitTargetFpsTo2402
+[C++] FFlagLargeReplicatorEnabled3
+[C++] FFlagLargeReplicatorWrite2
+[C++] FFlagLargeReplicatorRead2
 
 [Bot] Test
