@@ -29,5 +29,5 @@
     "FFlagLargeReplicatorEnabled5": "False",
     "FFlagLargeReplicatorWrite3": "False",
     "FFlagLargeReplicatorRead3": "False",
-    "FFlagDebugRefactorInExpGameSettings": "True"
+    "FFlagDebugRefactorInExpGameSettings": "False"
 }
