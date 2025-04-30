@@ -2995,7 +2995,7 @@
 	"FFlagStudioIncrementalAutocomplete2BetaFeature": true,
 	"FFlagDebugVideoCaptureMockCameraDeviceMatchResolution": false,
 	"FIntUGCValidateArmYMaxSlender": 400,
-	"FFlagRuntimeEnabled8": false,
+	"FFlagRuntimeEnabled8": true,
 	"DFFlagDisableCaptureModeTouchGuiCantSelect": false,
 	"DFIntVideoDriverMaxOutgoingFrames": 2,
 	"DFIntDynamicHeadsEnablingChoiceEventThrottleHundrethsPercent": 10000,
