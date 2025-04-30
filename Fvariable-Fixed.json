@@ -28,5 +28,6 @@
     "FStringVulkanBuggyRenderpassList2": "",
     "FFlagLargeReplicatorEnabled5": "False",
     "FFlagLargeReplicatorWrite3": "False",
-    "FFlagLargeReplicatorRead3": "False"
+    "FFlagLargeReplicatorRead3": "False",
+    "FFlagDebugRefactorInExpGameSettings": "True"
 }
