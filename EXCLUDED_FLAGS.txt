@@ -80,4 +80,5 @@ FFlagLargeReplicatorEnabled3
 FFlagLargeReplicatorWrite2
 FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache
 FFlagLargeReplicatorRead2
+FFlagTextureUseACR2
 DFIntMaxAltitudePDStickHipHeightPercent
