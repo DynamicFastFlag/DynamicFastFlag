@@ -23,7 +23,7 @@
 [C++] FFlagOptimizeCFrameUpdatesIC2
 [C++] FFlagSimDcdRefactorDelta2
 [C++] FFlagSimDcdEnableDelta2
-[C++] FFlagTextureUseACR2
+[C++] FFlagTextureUseACR3
 [C++] FFlagAnimationCurveDenseCacheEnabled3
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
 [C++] FFlagRuntimeEnabled8
