@@ -27,4 +27,6 @@
     "FFlagLargeReplicatorWrite3": "False",
     "FFlagLargeReplicatorRead3": "False",
     "FFlagDebugRefactorInExpGameSettings": "False"
+    "FFlagTextureUseACR3": "False",
+    "FIntTextureUseACRHundredthPercent": "0"
 }
