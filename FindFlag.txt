@@ -33,4 +33,5 @@
 [C++] FFlagLargeReplicatorRead3
 [C++] FFlagDebugRefactorInExpGameSettings
 [C++] FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
+[C++] FFlagSimDcdRefactorDelta3
 [Bot] Test
