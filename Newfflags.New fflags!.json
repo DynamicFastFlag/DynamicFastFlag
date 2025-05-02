@@ -1,4 +1,5 @@
 {
     "FFlagRenderDynamicResolutionScale12": "false",
     "DFFlagSimOptimizeGeometryChangedAssemblies3": "false",
+    "FFlagSimDcdRefactorDelta3": "false"
 }
