@@ -26,7 +26,7 @@
     "FFlagLargeReplicatorEnabled5": "False",
     "FFlagLargeReplicatorWrite3": "False",
     "FFlagLargeReplicatorRead3": "False",
-    "FFlagDebugRefactorInExpGameSettings": "False"
+    "FFlagDebugRefactorInExpGameSettings": "False",
     "FFlagTextureUseACR3": "False",
     "FIntTextureUseACRHundredthPercent": "0",
     "FFlagSimDcdRefactorDelta3": "False"
