@@ -34,4 +34,7 @@
 [C++] FFlagDebugRefactorInExpGameSettings
 [C++] FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
 [C++] FFlagSimDcdRefactorDelta3
+[Lua] FFlagEnableInGameMenuDurationLogger
+[Lua] FFlagLuaMenuPerfImprovements
+[Lua] FFlagUseNotificationServiceIsConnected
 [Bot] Test
