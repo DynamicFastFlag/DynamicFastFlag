@@ -10188,7 +10188,7 @@
 	"FFlagAvatarAutosetupStatusNotifications2": true,
 	"DFFlagUnexpectedEventGlobalEnabled667": true,
 	"FFlagNextGenReplicatorEnabledRead2": false,
-	"FFlagRuntimeEnabled9": false,
+	"FFlagRuntimeEnabled8": true,
 	"FFlagTelemetryCacheCleanupSlowStats3": false,
 	"DFFlagHttpRbxStorageMigration4": true,
 	"DFFlagHttpCacheSelfTest3": false,
