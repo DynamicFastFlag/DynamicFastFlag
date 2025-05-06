@@ -21,6 +21,8 @@
 [C++] FFlagLargeReplicatorWrite2
 [C++] FFlagOptimizeCFrameUpdates2
 [C++] FFlagOptimizeCFrameUpdatesIC2
+[C++] DFFlagRenderLanczosUpsamplingNonRinging2
+[C++] DFFlagRenderLanczosUpsampling2
 [C++] FFlagSimDcdRefactorDelta2
 [C++] FFlagSimDcdEnableDelta2
 [C++] FFlagTextureUseACR3
