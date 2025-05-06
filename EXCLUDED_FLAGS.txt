@@ -83,4 +83,7 @@ FFlagTextureUseACR2
 FFlagSimDcdRefactorDelta2
 DFFlagFixTexturePackPBR
 DFIntMaxAltitudePDStickHipHeightPercent
+DFFlagRenderLanczosSubpixel
+DFFlagRenderLanczosUpsampling
+DFFlagRenderLanczosUpsamplingNonRinging
 FFlagTexturePackUseACR
