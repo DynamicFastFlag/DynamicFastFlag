@@ -9,6 +9,7 @@
 [C++] FFlagDebugCodegenOptSize
 [C++] DFIntPhysicsAnalyticsHighFrequencyIntervalSec
 [C++] FFlagRenderCBRefactor2
+[C++] FFlagDebugAvatarChatVisualization
 [C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
 [C++] FFlagLuaAppEnableFoundationColors7
 [C++] FStringWhitelistVerifiedUserId
