@@ -32,5 +32,6 @@
     "FFlagSimDcdRefactorDelta3": "false",
     "FFlagEnableInGameMenuDurationLogger": "true",  
     "FFlagLuaMenuPerfImprovements": "false",  
-    "FFlagUseNotificationServiceIsConnected": "false"  
+    "FFlagUseNotificationServiceIsConnected": "false",
+    "FFlagDebugAvatarChatVisualization": "false"
 }
