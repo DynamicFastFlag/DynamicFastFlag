@@ -27,6 +27,9 @@
 [C++] DFFlagRenderLanczosSeparateAxis2
 [C++] FFlagSimDcdRefactorDelta2
 [C++] FFlagSimDcdEnableDelta2
+[UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
+[UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
+[UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease4
 [C++] FFlagTextureUseACR3
 [C++] FFlagAnimationCurveDenseCacheEnabled3
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
