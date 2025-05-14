@@ -87,4 +87,5 @@ DFFlagRenderLanczosSubpixel
 DFFlagRenderLanczosUpsampling
 DFFlagRenderLanczosUpsamplingNonRinging
 DFIntSimCSG3DCDMaxContacts
+FFlagTexturePackUseACR2
 FFlagTexturePackUseACR
