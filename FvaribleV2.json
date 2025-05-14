@@ -10362,7 +10362,7 @@
 	"FFlagHumanoidGuidAsCompositeCacheKey2": false,
 	"FFlagRenderTechniqueCaps2": true,
 	"FFlagTextureStreamingV02": false,
-	"FFlagTexturePackUseACR2": false,
+	"FFlagTexturePackUseACR3": false,
 	"FFlagTextureUseACR3": false,
 	"FFlagFCFlagsThreadSafe9": false,
 	"FFlagSurfaceAppearanceUseLowestRoughnessMipAtLowLOD3": true,
