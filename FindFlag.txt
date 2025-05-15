@@ -19,7 +19,7 @@
 [C++] FFlagNextGenReplicatorEnabledWrite2
 [C++] FFlagLargeReplicatorEnabled3
 [C++] FFlagLargeReplicatorRead2
-[C++] FFlagTexturePackUseACR3
+[C++] FFlagTexturePackUseACR4
 [C++] FFlagLargeReplicatorWrite2
 [C++] FFlagOptimizeCFrameUpdates2
 [C++] FFlagOptimizeCFrameUpdatesIC2
@@ -31,8 +31,8 @@
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease4
-[C++] FFlagTextureUseACR3
-[C++] FFlagAnimationCurveDenseCacheEnabled3
+[C++] FFlagTextureUseACR4
+[C++] FFlagAnimationCurveDenseCacheEnabled4
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
 [C++] FFlagRuntimeEnabled8
 [C++] FFlagTaskSchedulerLimitTargetFpsTo2402
