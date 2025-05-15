@@ -48,3 +48,4 @@
 [C++] FFlagTexturePackUseACR4
 [Bot] Test
 [C++] DFIntRCCNetLatency
+[C++] FIntMouseCommandLifetime
