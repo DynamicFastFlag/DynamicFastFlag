@@ -88,4 +88,7 @@ DFFlagRenderLanczosUpsampling
 DFFlagRenderLanczosUpsamplingNonRinging
 DFIntSimCSG3DCDMaxContacts
 FFlagTexturePackUseACR2
+FFlagTexturePackUseACR3
+FFlagTextureUseACR3
+FFlagAnimationCurveDenseCacheEnabled3
 FFlagTexturePackUseACR
