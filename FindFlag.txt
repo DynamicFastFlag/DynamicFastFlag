@@ -45,5 +45,5 @@
 [Lua] FFlagEnableInGameMenuDurationLogger
 [Lua] FFlagLuaMenuPerfImprovements
 [Lua] FFlagUseNotificationServiceIsConnected
-[C++] FFlagTexturePackUseACR2
+[C++] FFlagTexturePackUseACR4
 [Bot] Test
