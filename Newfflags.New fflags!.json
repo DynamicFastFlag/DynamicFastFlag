@@ -2,5 +2,8 @@
     "FFlagRenderDynamicResolutionScale12": "false",
     "DFFlagSimOptimizeGeometryChangedAssemblies3": "false",
     "FFlagSimDcdRefactorDelta3": "false",
-    "FFlagTexturePackUseACR4": "false"
+    "FFlagTexturePackUseACR4": "false",
+    "FFlagTextureUseACR4": "false",
+    "FFlagAnimationCurveDenseCacheEnabled4": "false"
 }
+ 
