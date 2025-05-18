@@ -92,4 +92,6 @@ FFlagTexturePackUseACR3
 FFlagTextureUseACR3
 FFlagAnimationCurveDenseCacheEnabled3
 FFlagTexturePackUseACR
+DFFlagReducePhysicsReceiverAllocations
+DFFlagPreventReturnOfElevatedPhysicsFPS
 DFFlagGameNetFixReplicationSkipBug
