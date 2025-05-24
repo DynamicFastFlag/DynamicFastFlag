@@ -46,3 +46,4 @@
 [Bot] Test
 [C++] DFIntRCCNetLatency
 [C++] FIntMouseCommandLifetime
+[C++] DFIntRenderFixedTargetResolutionMargin2
