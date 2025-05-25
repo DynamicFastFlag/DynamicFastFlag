@@ -1,51 +1,62 @@
-[C++] FFlagRenderDynamicResolutionScale12
-[C++] FFlagFasterPreciseTime4
-[C++] DFFlagMergeFakeInputEvents3
-[C++] DFFlagSimOptimizeGeometryChangedAssemblies3
-[C++] FFlagRenderUnifiedLighting12
+[C++] FFlagDebugAvatarChatVisualization
+[C++] FFlagDebugRefactorInExpGameSettings
+[C++] FFlagDebugCodegenOptSize
+
+[C++] FFlagAnimationCurveDenseCacheEnabled5
+[C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
+[C++] FFlagRemapR6Animation4
+
 [C++] FStringDebugLuaLogLevel
 [C++] FStringDebugLuaLogPattern
-[C++] DFIntMaxAverageFrameDelayExceedFactor
-[C++] FFlagDebugCodegenOptSize
-[C++] DFIntPhysicsAnalyticsHighFrequencyIntervalSec
-[C++] FFlagRenderCBRefactor2
-[C++] FFlagDebugAvatarChatVisualization
-[C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
+[Lua] FFlagLuaMenuPerfImprovements
 [C++] FFlagLuaAppEnableFoundationColors7
-[C++] FStringWhitelistVerifiedUserId
-[Lua] FFlagAXAccessoryAdjustmentIXPEnabledForAll
-[C++] FFlagRemapR6Animation4
-[C++] FFlagNextGenReplicatorEnabledRead3
-[C++] FFlagNextGenReplicatorEnabledWrite3
-[C++] FFlagLargeReplicatorEnabled6
-[C++] FFlagLargeReplicatorRead4
-[C++] FFlagTexturePackUseACR4
-[C++] FFlagLargeReplicatorWrite4
-[C++] FFlagOptimizeCFrameUpdates2
-[C++] FFlagOptimizeCFrameUpdatesIC2
+[Lua] FFlagEnableInGameMenuDurationLogger
+
+[C++] FFlagRenderDynamicResolutionScale12
+[C++] FFlagRenderUnifiedLighting12
+[C++] FFlagRenderCBRefactor2
+[C++] DFIntRenderFixedTargetResolutionMargin2
 [C++] DFFlagRenderLanczosUpsamplingNonRinging2
 [C++] DFFlagRenderLanczosUpsampling2
 [C++] DFFlagRenderLanczosSeparateAxis2
 [C++] DFFlagRenderSmootherStepUpsampling2
-[C++] FFlagSimDcdRefactorDelta2
+
+[C++] FFlagNextGenReplicatorEnabledRead3
+[C++] FFlagNextGenReplicatorEnabledWrite3
+[C++] FFlagLargeReplicatorEnabled6
+[C++] FFlagLargeReplicatorRead4
+[C++] FFlagLargeReplicatorWrite4
+
+[C++] FFlagOptimizeCFrameUpdates2
+[C++] FFlagOptimizeCFrameUpdatesIC2
+[C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
+[C++] DFFlagSimOptimizeGeometryChangedAssemblies3
+
+[C++] FFlagSimDcdRefactorDelta3
 [C++] FFlagSimDcdEnableDelta2
+
+[C++] FFlagTextureUseACR4
+[C++] FFlagTexturePackUseACR4
+
+[C++] FFlagFasterPreciseTime4
+[C++] DFIntMaxAverageFrameDelayExceedFactor
+[C++] FFlagTaskSchedulerLimitTargetFpsTo2402
+
+[C++] DFFlagMergeFakeInputEvents3
+[C++] FIntMouseCommandLifetime
+
+[C++] DFIntPhysicsAnalyticsHighFrequencyIntervalSec
+
+[C++] FStringWhitelistVerifiedUserId
+
+[C++] FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
+
+[C++] FFlagRuntimeEnabled8
+
+[C++] FFlagUpdateAsyncLightGrid9
+
+[C++] DFIntRCCNetLatency
+
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease4
-[C++] FFlagTextureUseACR4
-[C++] FFlagAnimationCurveDenseCacheEnabled5
-[C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
-[C++] FFlagRuntimeEnabled8
-[C++] FFlagTaskSchedulerLimitTargetFpsTo2402
-[C++] FFlagDebugRefactorInExpGameSettings
-[C++] FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
-[C++] FFlagSimDcdRefactorDelta3
-[Lua] FFlagEnableInGameMenuDurationLogger
-[Lua] FFlagLuaMenuPerfImprovements
-[Lua] FFlagUseNotificationServiceIsConnected
-[C++] FFlagTexturePackUseACR4
-[Bot] Test
-[C++] DFIntRCCNetLatency
-[C++] FIntMouseCommandLifetime
-[C++] DFIntRenderFixedTargetResolutionMargin2
-[C++] FFlagUpdateAsyncLightGrid9
