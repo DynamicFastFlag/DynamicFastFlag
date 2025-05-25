@@ -100,4 +100,5 @@ FFlagLargeReplicatorEnabled5
 FFlagLargeReplicatorWrite3
 FFlagLargeReplicatorRead3
 FFlagAnimationCurveDenseCacheEnabled4
+DFFlagPreciseCFrameReplication
 DFFlagGameNetFixReplicationSkipBug
