@@ -102,4 +102,5 @@ FFlagLargeReplicatorRead3
 FFlagAnimationCurveDenseCacheEnabled4
 DFFlagPreciseCFrameReplication
 FFlagForceChatBubbleColorCS
+DFFlagRenderSmootherStepUpsampling
 DFFlagGameNetFixReplicationSkipBug
