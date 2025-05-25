@@ -48,3 +48,4 @@
 [C++] DFIntRCCNetLatency
 [C++] FIntMouseCommandLifetime
 [C++] DFIntRenderFixedTargetResolutionMargin2
+[C++] FFlagUpdateAsyncLightGrid9
