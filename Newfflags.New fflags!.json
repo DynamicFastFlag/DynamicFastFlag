@@ -1,14 +1,1 @@
-{
-    "FFlagRenderDynamicResolutionScale12": "false",
-    "DFFlagSimOptimizeGeometryChangedAssemblies3": "false",
-    "FFlagSimDcdRefactorDelta3": "false",
-    "FFlagTexturePackUseACR4": "false",
-    "FFlagTextureUseACR4": "false",
-    "FFlagAnimationCurveDenseCacheEnabled5": "false",
-    "FFlagLargeReplicatorRead4": "false",
-    "FFlagLargeReplicatorWrite4": "false",
-    "FFlagLargeReplicatorEnabled6": "false",
-    "FFlagNextGenReplicatorEnabledWrite3": "false",
-    "FFlagNextGenReplicatorEnabledRead3": "false"
-}
- 
+
