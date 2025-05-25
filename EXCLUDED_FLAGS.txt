@@ -104,3 +104,4 @@ DFFlagPreciseCFrameReplication
 FFlagForceChatBubbleColorCS
 DFFlagRenderSmootherStepUpsampling
 DFFlagGameNetFixReplicationSkipBug
+FFlagRenderLightGridEfficientTextureAtlasUpdate
