@@ -17,18 +17,18 @@
 [C++] FFlagRenderCBRefactor2
 [C++] DFIntRenderFixedTargetResolutionMargin2
 [C++] DFFlagRenderLanczosUpsamplingNonRinging2
-[C++] DFFlagRenderLanczosUpsampling2
-[C++] DFFlagRenderLanczosSeparateAxis2
 [C++] DFFlagRenderSmootherStepUpsampling2
 
 [C++] FFlagNextGenReplicatorEnabledRead3
 [C++] FFlagNextGenReplicatorEnabledWrite3
 [C++] FFlagLargeReplicatorEnabled6
-[C++] FFlagLargeReplicatorRead4
-[C++] FFlagLargeReplicatorWrite4
+[C++] FFlagLargeReplicatorRead5
+[C++] FFlagLargeReplicatorWrite5
+[C++] FFlagLargeReplicatorSerializeWrite2
+[C++] FFlagLargeReplicatorSerializeRead2
 
-[C++] FFlagOptimizeCFrameUpdates2
-[C++] FFlagOptimizeCFrameUpdatesIC2
+[C++] FFlagOptimizeCFrameUpdates3
+[C++] FFlagOptimizeCFrameUpdatesIC3
 [C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
 [C++] DFFlagSimOptimizeGeometryChangedAssemblies3
 
@@ -53,7 +53,7 @@
 
 [C++] FFlagRuntimeEnabled8
 
-[C++] FFlagUpdateAsyncLightGrid9
+[C++] FFlagUpdateAsyncLightGrid10
 
 [C++] DFIntRCCNetLatency
 
