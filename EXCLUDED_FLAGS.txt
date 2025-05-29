@@ -83,7 +83,6 @@ FFlagTextureUseACR2
 FFlagSimDcdRefactorDelta2
 DFFlagFixTexturePackPBR
 DFIntMaxAltitudePDStickHipHeightPercent
-DFFlagRenderLanczosSubpixel
 DFFlagRenderLanczosUpsampling
 DFFlagRenderLanczosUpsamplingNonRinging
 DFIntSimCSG3DCDMaxContacts
@@ -117,3 +116,5 @@ FFlagOptimizeCFrameUpdatesIC2
 FFlagOptimizeCFrameUpdates2
 FFlagUpdateAsyncLightGrid9
 FFlagLightgridCPUAsyncUpdate5
+DFFlagRenderLanczosUpsampling2
+DFFlagRenderLanczosSeparateAxis2
