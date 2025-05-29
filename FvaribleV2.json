@@ -10611,7 +10611,7 @@
     "DFFlagReportCategoryStats2": false,
     "DFFlagUnexpectedEventGlobalEnabled667": true,
     "FFlagNextGenReplicatorEnabledRead3": false,
-    "FFlagRuntimeEnabled9": false,
+    "FFlagRuntimeEnabled8": true,
     "FFlagTelemetryCacheCleanupSlowStats3": true,
     "DFFlagHttpRbxStorageMigration4": true,
     "DFFlagHttpCacheSelfTest3": false,
