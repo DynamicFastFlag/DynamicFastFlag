@@ -6,6 +6,8 @@
 [C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
 [C++] FFlagRemapR6Animation4
 
+[C++] FFlagEnableDynamicTranslation2
+
 [C++] FStringDebugLuaLogLevel
 [C++] FStringDebugLuaLogPattern
 [Lua] FFlagLuaMenuPerfImprovements
