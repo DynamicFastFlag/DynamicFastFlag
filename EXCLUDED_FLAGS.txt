@@ -122,6 +122,7 @@ FFlagFixParticleEmissionBias2
 FFlagFixOutdatedParticles2
 FFlagRenderShadowSkipHugeCulling
 FFlagEnableDynamicTranslation
+DFFlagRenderLanczosSeparateAxis2
+
 DFFlagConsistentRakNetPing
 FFlagFixAudioEmitterDirectionalCulling
-DFFlagRenderLanczosSeparateAxis2
