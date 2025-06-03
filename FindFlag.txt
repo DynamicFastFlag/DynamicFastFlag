@@ -61,6 +61,7 @@
 [C++] DFFlagRccLoadSoundLengthOnly2
 [C++] DFIntRccLoadSoundLengthOnlyHundredthPercent2
 [C++] FFlagFixSoundDidLoopMultiFire5
+[C++] FFlagAddSoundReloadCount5
 
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
