@@ -133,3 +133,4 @@ FFlagAddHapticsToggle
 DFFlagRccLoadSoundLengthOnly
 DFIntRccLoadSoundLengthOnlyHundredthPercent
 FFlagFixSoundDidLoopMultiFire
+FFlagAddSoundReloadCount
