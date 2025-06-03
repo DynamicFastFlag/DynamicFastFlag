@@ -58,6 +58,9 @@
 [C++] FFlagUpdateAsyncLightGrid10
 
 [C++] DFIntRCCNetLatency
+[C++] DFFlagRccLoadSoundLengthOnly2
+[C++] DFIntRccLoadSoundLengthOnlyHundredthPercent2
+[C++] FFlagFixSoundDidLoopMultiFire5
 
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
