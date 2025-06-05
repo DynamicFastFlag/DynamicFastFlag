@@ -134,3 +134,6 @@ DFFlagRccLoadSoundLengthOnly
 DFIntRccLoadSoundLengthOnlyHundredthPercent
 FFlagFixSoundDidLoopMultiFire
 FFlagAddSoundReloadCount
+FFlagNextGenReplicatorEnabledWrite3
+FFlagTextureUseACR4
+FFlagOptimizeCFrameUpdates3
