@@ -22,14 +22,14 @@
 [C++] DFFlagRenderSmootherStepUpsampling2
 
 [C++] FFlagNextGenReplicatorEnabledRead3
-[C++] FFlagNextGenReplicatorEnabledWrite3
+[C++] FFlagNextGenReplicatorEnabledWrite4
 [C++] FFlagLargeReplicatorEnabled6
 [C++] FFlagLargeReplicatorRead5
 [C++] FFlagLargeReplicatorWrite5
 [C++] FFlagLargeReplicatorSerializeWrite2
 [C++] FFlagLargeReplicatorSerializeRead2
 
-[C++] FFlagOptimizeCFrameUpdates3
+[C++] FFlagOptimizeCFrameUpdates4
 [C++] FFlagOptimizeCFrameUpdatesIC3
 [C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
 [C++] DFFlagSimOptimizeGeometryChangedAssemblies3
@@ -37,7 +37,7 @@
 [C++] FFlagSimDcdRefactorDelta3
 [C++] FFlagSimDcdEnableDelta2
 
-[C++] FFlagTextureUseACR4
+[C++] FFlagTextureUseACR5
 [C++] FFlagTexturePackUseACR4
 
 [C++] FFlagFasterPreciseTime4
