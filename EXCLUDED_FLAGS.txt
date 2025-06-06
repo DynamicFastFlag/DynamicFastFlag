@@ -138,3 +138,5 @@ FFlagAddSoundReloadCount
 FFlagNextGenReplicatorEnabledWrite3
 FFlagTextureUseACR4
 FFlagOptimizeCFrameUpdates3
+FFlagGlobalSettingsEngineModule
+FFlagGlobalSettingsEngineModule2
