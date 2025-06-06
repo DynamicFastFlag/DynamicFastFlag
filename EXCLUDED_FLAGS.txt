@@ -139,4 +139,5 @@ FFlagNextGenReplicatorEnabledWrite3
 FFlagTextureUseACR4
 FFlagOptimizeCFrameUpdates3
 FFlagGlobalSettingsEngineModule
+FFlagVignetteEffectEnabled4
 FFlagGlobalSettingsEngineModule2
