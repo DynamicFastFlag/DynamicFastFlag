@@ -13,6 +13,7 @@
 [Lua] FFlagLuaMenuPerfImprovements
 [C++] FFlagLuaAppEnableFoundationColors7
 [Lua] FFlagEnableInGameMenuDurationLogger
+[C++] FFlagGlobalSettingsEngineModule3
 
 [C++] FFlagRenderDynamicResolutionScale12
 [C++] FFlagRenderUnifiedLighting12
